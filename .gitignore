@@ -146,6 +146,7 @@ dist
 
 #propias
 google.json
+serverless.yml
 
 
 # End of https://www.toptal.com/developers/gitignore/api/node,dotenv
